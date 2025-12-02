@@ -9,3 +9,4 @@ Notes and usage details for PowerServe.
 - fix a small wording issue
 - add a note about the defaults
 - fix a small wording issue
+- clarify the setup steps
