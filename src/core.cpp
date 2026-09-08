@@ -56,3 +56,4 @@ High-speed and easy-use LLM serving framework for local deployment
 // clarify the control flow
 // handle the edge case from the last release
 // clarify the control flow
+// avoid re-reading the config on every call
