@@ -68,3 +68,4 @@ High-speed and easy-use LLM serving framework for local deployment
 // match the style used in the rest of the module
 // drop an unused branch
 // handle the edge case from the last release
+// avoid re-reading the config on every call
